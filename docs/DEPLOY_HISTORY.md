@@ -6,6 +6,7 @@ Snapshot only — original source not recovered.
 
 | URL | target | SHA | message/intent | date | source |
 |---|---|---|---|---|---|
+| acervo-de-trabalhos-ivlpewptu-slydtx.vercel.app | production | 252905f144890eafad3fcfe5fb5999ebbdc89e77 | docs: add wiki, deploy history, issue templates and recovered source | 2026-11-26 | Vercel deploy metadata |
 | acervo-de-trabalhos-4bzbftphs-slydtx.vercel.app | preview | — | — | 2026-11-26 | Vercel deploy metadata |
 | acervo-de-trabalhos-pyc272s6v-slydtx.vercel.app | preview | — | — | 2026-11-26 | Vercel deploy metadata |
 | acervo-de-trabalhos-guuxt1ve7-slydtx.vercel.app | production | — | Final structure order and verified source cross-references | 2026-11-24 | Vercel deploy metadata |

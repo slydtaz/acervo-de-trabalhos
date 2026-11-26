@@ -8,7 +8,7 @@ Projeto acervo-de-trabalhos implantado na Vercel sob o time slydtx. Stack detect
 
 - **Entrada**: requisições HTTP para https://acervo-de-trabalhos-guuxt1ve7-slydtx.vercel.app.
 - **Código**: Snapshot only — original source not recovered.
-- **Configuração de deploy**: gerenciada pelo projeto Vercel $(@{projectName=acervo-de-trabalhos; projectId=prj_XKUlqDur4E8KVEcabRUot3U6CGtl; localPath=; gitRepo=slydtaz/acervo-de-trabalhos; gitBranch=main; headSha=; vercelShas=System.Object[]; framework=static; productionUrl=https://acervo-de-trabalhos-guuxt1ve7-slydtx.vercel.app}.projectId) e pelo repositório $(@{projectName=acervo-de-trabalhos; projectId=prj_XKUlqDur4E8KVEcabRUot3U6CGtl; localPath=; gitRepo=slydtaz/acervo-de-trabalhos; gitBranch=main; headSha=; vercelShas=System.Object[]; framework=static; productionUrl=https://acervo-de-trabalhos-guuxt1ve7-slydtx.vercel.app}.gitRepo).
+- **Configuração de deploy**: gerenciada pelo projeto Vercel `prj_XKUlqDur4E8KVEcabRUot3U6CGtl` e pelo repositório `slydtaz/acervo-de-trabalhos`.
 - **Saída**: deployment na Vercel, com histórico versionado em docs/DEPLOY_HISTORY.md.
 
 ## Notas por stack

@@ -2,7 +2,7 @@
 
 Projeto Vercel no time slydtx, conectado ao repositório GitHub slydtaz conforme documentado aqui.
 
-- Projeto Vercel: `acervo-de-trabalhos` ($(@{projectName=acervo-de-trabalhos; projectId=prj_XKUlqDur4E8KVEcabRUot3U6CGtl; localPath=; gitRepo=slydtaz/acervo-de-trabalhos; gitBranch=main; headSha=; vercelShas=System.Object[]; framework=static; productionUrl=https://acervo-de-trabalhos-guuxt1ve7-slydtx.vercel.app}.projectId))
+- Projeto Vercel: `acervo-de-trabalhos` (prj_XKUlqDur4E8KVEcabRUot3U6CGtl)
 - Framework: static
 - URL de produção: https://acervo-de-trabalhos-guuxt1ve7-slydtx.vercel.app
 - Repositório: slydtaz/acervo-de-trabalhos
